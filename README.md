@@ -1,19 +1,4 @@
 # Python-and-Spark-for-Big-Data
-Course Notebooks for Python and Spark for Big Data
-
-Course Outline:
-
-* Course Introduction
-    * Promo/Intro Video
-    * Course Curriculum Overview
-    * Introduction to Spark, RDDs, and Spark 2.0
-    
-* Course Set-up
-    * Set-up Overview
-    * EC2 Installation Guide
-    * Local Installation Guide with VirtualBox
-    * Databricks Notebooks
-    * Unix Command Line Basics and Jupyter Notebook Overview
     
 * Spark DataFrames
     * Spark DataFrames Section Introduction
@@ -28,7 +13,7 @@ Course Outline:
     * DataFrame Project Exercise Solutions
     
 * Machine Learning
-    * Introduction to Machine Learning and ISLR
+    * Introduction to Machine Learning
     * Machine Learning with Spark and Python and MLlib
     * Consulting Project Approach Overview
     
@@ -71,9 +56,3 @@ Course Outline:
 * Spark Streaming
     * Introduction to Spark Streaming 
     * Spark Streaming Code-along!
- 
-    
-    
-    
-
- 
